@@ -1,0 +1,66 @@
+[{
+  "_id": {
+    "$oid": "6090b8bc6c2a4b2ebc7a13e1"
+  },
+  "imgSrc": "https://utfs.io/f/7b07c49e-c405-4995-8681-58074ee60aef-uhxgza._AC_SX679_.jpg",
+  "fileKey": "7b07c49e-c405-4995-8681-58074ee60aef-uhxgza._AC_SX679_.jpg",
+  "name": "Acer Nitro 5 AN515-58",
+  "category": "Laptops",
+  "price": "1800",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6090b8bc6c2a4b2ebc7a13e2"
+  },
+  "imgSrc": "https://utfs.io/f/b11b136e-3986-41f7-baa0-434ea52f67b0-6ta54b._AC_SX679_.jpg",
+  "fileKey": "b11b136e-3986-41f7-baa0-434ea52f67b0-6ta54b._AC_SX679_.jpg",
+  "name": "ASUS TUF Gaming F15 (2022)",
+  "category": "Laptops",
+  "price": 1500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6635a93b5c4160fe8af053d9"
+  },
+  "imgSrc": "https://utfs.io/f/992f7773-858d-41e0-8efb-d36a4d159642-knu52._AC_SL1500_.jpg",
+  "fileKey": "992f7773-858d-41e0-8efb-d36a4d159642-knu52._AC_SL1500_.jpg",
+  "name": "Asus Monitor",
+  "category": "Monitor",
+  "price": 600,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6635a9935c4160fe8af053dd"
+  },
+  "imgSrc": "https://utfs.io/f/bf322f90-8527-404b-938f-74a94bcbfdec-th5czq._AC_SX466_.jpg",
+  "fileKey": "bf322f90-8527-404b-938f-74a94bcbfdec-th5czq._AC_SX466_.jpg",
+  "name": "ASUS ProArt",
+  "category": "Monitor",
+  "price": 1600,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6635a9ce5c4160fe8af053e1"
+  },
+  "imgSrc": "https://utfs.io/f/5a7c8b13-0911-438c-9fbc-ea2d45ff47fb-dktept._AC_SL1000_.jpg",
+  "fileKey": "5a7c8b13-0911-438c-9fbc-ea2d45ff47fb-dktept._AC_SL1000_.jpg",
+  "name": "iPhone 14 Pro Max",
+  "category": "Celular",
+  "price": 2500,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "663649f2ba6e8c1f6da0164a"
+  },
+  "imgSrc": "https://utfs.io/f/72892970-8949-4ed4-b818-52bf4410fc82-dy488._AC_SX679_.jpg",
+  "fileKey": "72892970-8949-4ed4-b818-52bf4410fc82-dy488._AC_SX679_.jpg",
+  "name": "Galaxy S24 Ultra",
+  "category": "Celular",
+  "price": 2499,
+  "__v": 0
+}]
