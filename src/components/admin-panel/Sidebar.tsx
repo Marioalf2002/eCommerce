@@ -43,7 +43,7 @@ const menus = [
   {
     title: "Salir",
     icon: <FiLogOut />,
-    href: "http://localhost:3000/",
+    href: "/",
   },
 ];
 
